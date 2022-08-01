@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="tv_text1">あなたの肥満度は</string>
+    <string name="tv_text2">あなたの適正体重は</string>
+    <string name="tv_text3">kg</string>
+    <string name="tv_text4">年齢</string>
+    <string name="tv_text5">身長</string>
+    <string name="tv_text6">体重</string>
+    <string name="tv_text7">歳</string>
+    <string name="tv_text8">cm</string>
+    <string name="bt_button1">計算</string>
+    <string name="bv_button2">クリア</string>
+    <string name="tv_k1">警告</string>
+    <string name="tv_k2">確認</string>
+</resources>
